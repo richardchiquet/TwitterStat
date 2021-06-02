@@ -9,7 +9,7 @@ Created on Tue May 25 05:46:54 2021
 """
 This programme collect trends in a city
 then it collects tweet on different trends and saved them in a dataframe
-then a dictionary of itaration of words
+then a dictionary of iterations of words
 then some stats on these iterations are save in a csv
 
 Everytime that programme is launched a new line is created on the csv.
