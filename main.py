@@ -27,10 +27,10 @@ import numpy as np
 import time
 import statistics as st
 
-consumer_key = "NuULPYbS9RjW7xbJ3W1ZQFD6F"
-consumer_secret = "DkqJRkN0VmTjZciSTQxx5edBzpPA6lP8dVRJAOoGk4IZWtKm1i"
-access_key = "1225330419702358016-KtSUcHGIyqTCsIAD78Uu0UAtvUDMFl"
-access_secret = "Por8F7s3OopSKap6BNBm5Xk1IHPpD0dkOEPS0zsEAf31I"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 
